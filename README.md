@@ -1,0 +1,2 @@
+StartLink – a platform designed to empower student-led startups by connecting them with potential investors and helping them discover like-minded startups for collaboration and growth!<br>
+What StartLink Does: StartLink bridges the gap between innovative student entrepreneurs and investors, while also fostering a network of budding startups.<br> Whether you're seeking funding, looking to collaborate, or just want to explore the student startup ecosystem – StartLink is your go-to platform
